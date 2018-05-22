@@ -3,7 +3,7 @@ import random
 f = open ('iris.data','r+')
 
 def filetolist (ar):
-    nop =[]
+    nop = []
     bbv = []
 
     for line in ar:
